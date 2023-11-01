@@ -1,1 +1,1 @@
-# CSE431
+This repository contains all the submissions of the Course CSE431- Natural Language Processing. (BRACU)
