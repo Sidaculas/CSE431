@@ -5,10 +5,10 @@ Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1vSx95M-qBrATcEtWZ9m2HSQ4XlQr0mFY9OxP_rPCqkQ/edit?usp=sharing
 
 Paper title:
-Exploring Natural Language Processing in Model-To-Model Transformations.
+Toward News Authenticity: Synthesizing Natural Language Processing and Human Expert Opinion to Evaluate News
 
 Link to the paper:
-https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9938985
+https://ieeexplore.ieee.org/document/10034750
 
 Group Number:
 30
